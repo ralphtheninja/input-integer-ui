@@ -1,0 +1,22 @@
+{
+  "name": "input-integer-ui",
+  "version": "0.0.0",
+  "description": "ui component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphtheninja/input-integer-ui.git"
+  },
+  "keywords": [
+    "slider"
+  ],
+  "author": "ralphtheninja",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ralphtheninja/input-integer-ui/issues"
+  },
+  "homepage": "https://github.com/ralphtheninja/input-integer-ui#readme"
+}
